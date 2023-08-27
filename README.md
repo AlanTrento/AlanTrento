@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alan V. Trento</h1>
-<h3 align="center">I am an Electronic Engineer living in Brazil 🇧🇷. I graduated from UTFPR - Federal Technological University of Paraná.</h3>
+<h3 align="center">I am an Electronic Engineer living in Brazil. I graduated from UTFPR - Federal Technological University of Paraná.</h3>
 
 - 🌱 I’m currently learning **CODESYS, JavaScript, Python, Machine learning**
 
