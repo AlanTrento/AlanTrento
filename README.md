@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alan V. Trento</h1>
 <h3 align="center">I am an Electronic Engineer living in Brazil. I graduated from UTFPR - Federal Technological University of Paraná.</h3>
 
-- 🌱 I’m currently learning **CODESYS,JavaScript,Python, Machine learning**
+- 🌱 I’m currently learning **CODESYS, JavaScript, Python, Machine learning**
 
 - 🔧 IDE's: [Visual Studio Code, MPLAB X IDE, Altium Designer](Visual Studio Code, MPLAB X IDE, Altium Designer)
 
-- 💬 Ask me about **Excel,C,C++,Altium Designer**
+- 💬 Ask me about **Excel, C, C++, Altium Designer**
 
 - 📫 How to reach me **alanvtrento@gmail.com**
 
