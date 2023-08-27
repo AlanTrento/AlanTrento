@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **CODESYS, JavaScript, Python, Machine learning**
 
-- 🔧 IDE's: [Visual Studio Code, MPLAB X IDE, Altium Designer](Visual Studio Code, MPLAB X IDE, Altium Designer)
+- 🔧 IDE's: [Visual Studio Code, MPLAB X IDE, Altium Designer]
 
 - 💬 Ask me about **Excel, C, C++, Altium Designer**
 
