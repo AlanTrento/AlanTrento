@@ -5,7 +5,7 @@
 
 - 🔧 IDE's: [Visual Studio Code, MPLAB X IDE, Altium Designer]
 
-- 💬 Ask me about **Excel, C, C++, Altium Designer**
+- 💬 Ask me about **C, C++, Altium Designer**
 
 - 📫 How to reach me **alanvtrento@gmail.com**
 
