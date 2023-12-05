@@ -21,4 +21,4 @@
 <a href="https://www.altium.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/7af95003139e68a3a54e382bb4f23a72836ef348/topics/altium-designer/altium-designer.png" alt="altium" width="40" height="40"/> </a>
 <a href="https://www.codesys.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Codesys_Logo.svg" alt="CODESYS" width="40" height="40"/> </a>
 <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git" width="40" height="40"/> </a></p>
-
+<a href="https://www.mathworks.com" target="_blank" rel="noreferrer"> <img src="https://assets-global.website-files.com/6047a9e35e5dc54ac86ddd90/6301871740192a4448bcd909_6698871c.png" alt="Matlab" width="40" height="40"/> </a></p>
