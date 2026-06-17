@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **C, C++, JavaScript, Node.js, Uniface, FreeRTOS, Altium Designer, CODESYS**
 
-- 📫 How to reach me **LinkedIn: linkedin.com/in/alan-vinicius-trento**
+- 📫 How to reach me **alanvtrento@outlook.com**
 
 - ⚡ Fun fact **I love watching animes**
 
